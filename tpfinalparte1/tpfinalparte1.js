@@ -1,3 +1,4 @@
+//holaaaa
 let fondoInicio = []; 
 let titulo;
 let texto1;
@@ -72,10 +73,6 @@ maxTexto = 0;
 textoActual = 0; 
  fondoPantalla10Actual = escenaPantalla10;
 }
-
-
-
-
 
 
 function draw() {
